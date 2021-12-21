@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **brigildo@hotmail.com**
 
-- ⚡ Fun fact **wildheart ☄️**
+- ⚡ Fun fact **FIFA Pro Clubs Player 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
