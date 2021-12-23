@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PM (roadmap, cycle, scrum...), React & Redux**
 
-- 👨‍💻 All of my projects are available at troopl.com/brigildo-foreigner
+- 👨‍💻 All of my projects are available at <a href="https://linkedin.com/in/brigildo-foreigner" target="_blank">troopl.com/brigildo-foreigner</a>
 
 - 📫 How to reach me **brigildo@hotmail.com**
 
