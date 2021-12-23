@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brigildo14" alt="brigildo14" /></a> </p>
 
-- 🌱 I’m currently learning **PM (roadmap, cycle, scrum...), React & Redx**
+- 🌱 I’m currently learning **PM (roadmap, cycle, scrum...), React & Redux**
 
 - 👨‍💻 All of my projects are available at [troopl.com/brigildo-foreigner](troopl.com/brigildo-foreigner)
 
