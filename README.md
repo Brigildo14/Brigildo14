@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://troopl.com/brigildo-foreigner" target="_blank">troopl.com/brigildo-foreigner</a>
 
-- 📫 How to reach me **brigildo@hotmail.com**
+- 📫 You can reach me at **brigildo@hotmail.com**
 
-- ⚡ Fun fact **FIFA Pro Clubs Player 🎮**
+- ⚡ Fun fact: **FIFA Pro Clubs Player 🎮**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
